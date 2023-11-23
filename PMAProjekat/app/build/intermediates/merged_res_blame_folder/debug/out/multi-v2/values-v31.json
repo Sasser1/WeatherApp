@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.vremenskaprognoza.app-mergeDebugResources-69:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sasser\\Desktop\\WeatherApp\\PMAProjekat\\app\\src\\main\\res\\values-v31\\themes.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "244,55",
+                        "endLines": "6,4",
+                        "endColumns": "77,12",
+                        "endOffsets": "317,238"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endLines": "2,5",
+                        "endColumns": "76,12",
+                        "endOffsets": "127,315"
+                    }
+                }
+            ]
+        }
+    ]
+}
