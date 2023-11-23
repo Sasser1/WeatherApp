@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Base.V31.Theme.WeatherApp" parent="Base.V21.Theme.WeatherApp">
+    <style name="Base.V31.Theme.VremenskaPrognoza" parent="Base.V21.Theme.VremenskaPrognoza">
         <item name="android:windowSplashScreenBackground">@color/ic_launcher_background</item>
     </style>
 
-    <style name="Base.Theme.WeatherApp" parent="Base.V31.Theme.WeatherApp" />=
+    <style name="Base.Theme.VremenskaPrognoza" parent="Base.V31.Theme.VremenskaPrognoza" />=
 </resources>

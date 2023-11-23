@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vremenskaprognoza.app-mergeDebugResources-69:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "outputFile": "com.example.vremenskaprognoza.app-mergeDebugResources-68:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\c6b614b064a441f73de76c4c785b4b9e\\transformed\\material-1.4.0-beta01\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\f034b4384cb08d8f7af94aa2483affb7\\transformed\\material-1.10.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

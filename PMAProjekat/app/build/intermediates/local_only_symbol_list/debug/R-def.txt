@@ -109,11 +109,11 @@ string weather
 string week_forecast
 string wind_speed
 string wind_speed_unit
-style Base.Theme.WeatherApp
-style Base.V21.Theme.WeatherApp
-style Base.V31.Theme.WeatherApp
+style Base.Theme.VremenskaPrognoza
+style Base.V21.Theme.VremenskaPrognoza
+style Base.V31.Theme.VremenskaPrognoza
 style SearchViewStyle
-style Theme.WeatherApp
+style Theme.VremenskaPrognoza
 xml backup_rules
 xml data_extraction_rules
 xml root_preferences

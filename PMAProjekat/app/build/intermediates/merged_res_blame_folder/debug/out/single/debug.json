@@ -1,210 +1,210 @@
 [
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/xml_root_preferences.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/xml/root_preferences.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_card_city.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/card_city.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_rainy_thunder.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_rainy_thunder.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_heavy_snow.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_heavy_snow.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_activity_main.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/activity_main.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_partly_cloudy_sun.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_partly_cloudy_sun.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_fragment_weather.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/fragment_weather.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_favorite_filled.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_favorite_filled.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_cloud.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_cloud.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_pressure.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_pressure.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_add.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_add.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_settings.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_settings.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_search.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_search.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_card_daily_weather.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/card_daily_weather.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_snowy.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_snowy.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_fragment_city_search.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/fragment_city_search.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_humidity.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_humidity.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_favorite_bordered.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_favorite_bordered.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_cloud.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_cloud.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_snowy.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_snowy.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_cloudy.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_cloudy.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_mainly_cloudy_sun.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_mainly_cloudy_sun.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_icon_background.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/icon_background.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_add.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_add.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_clear_noon.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_clear_noon.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_card_hourly_weather.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/card_hourly_weather.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_wind.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_wind.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_arrow_left.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_arrow_left.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_fragment_weather.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/fragment_weather.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_partly_cloudy_noon.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_partly_cloudy_noon.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_search.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_search.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/xml_root_preferences.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/xml/root_preferences.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_humidity.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_humidity.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_partly_cloudy_sun.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_partly_cloudy_sun.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/xml_backup_rules.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_icon_background.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/icon_background.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_clear_noon.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_clear_noon.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/xml_backup_rules.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/xml/backup_rules.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_clear_sun.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_clear_sun.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_favorite_filled.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_favorite_filled.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_favorite_bordered.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_favorite_bordered.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_rainy_thunder.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_rainy_thunder.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_partly_cloudy_noon.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_partly_cloudy_noon.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_rainy.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_rainy.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_settings_appearance.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_settings_appearance.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_settings.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_settings.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_card_city.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/card_city.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_clear_sun.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_clear_sun.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_ic_pressure.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/ic_pressure.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/xml/data_extraction_rules.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_mainly_cloudy_sun.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_mainly_cloudy_sun.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_fragment_city_search.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/fragment_city_search.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_mainly_cloudy_noon.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_mainly_cloudy_noon.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_mainly_cloudy_noon.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_mainly_cloudy_noon.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_card_daily_weather.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/card_daily_weather.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/navigation_weather_app_navigation.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/navigation/weather_app_navigation.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_settings_appearance.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_settings_appearance.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_arrow_left.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_thunder.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_thunder.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_activity_main.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_heavy_snow.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_heavy_snow.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_thunder.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_thunder.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/layout_card_hourly_weather.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/layout/card_hourly_weather.xml"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/navigation_weather_app_navigation.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/navigation/weather_app_navigation.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_im_cloudy.png.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/im_cloudy.png"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/drawable_ic_wind.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/drawable/ic_wind.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-71:/drawable_im_rainy.png.flat",
-        "source": "com.example.vremenskaprognoza.app-main-73:/drawable/im_rainy.png"
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/mipmap-xhdpi/ic_launcher_foreground.webp"
     }
 ]

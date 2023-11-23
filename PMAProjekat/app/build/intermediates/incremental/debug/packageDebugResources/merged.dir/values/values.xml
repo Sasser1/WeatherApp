@@ -67,8 +67,8 @@
     <string name="week_forecast">7 Day Forecast</string>
     <string name="wind_speed">Wind Speed</string>
     <string name="wind_speed_unit">Wind Speed Unit</string>
-    <style name="Base.Theme.WeatherApp" parent="Base.V21.Theme.WeatherApp"/>
-    <style name="Base.V21.Theme.WeatherApp" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Base.Theme.VremenskaPrognoza" parent="Base.V21.Theme.VremenskaPrognoza"/>
+    <style name="Base.V21.Theme.VremenskaPrognoza" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="android:navigationBarColor">@color/primaryBackground</item>
         
@@ -97,5 +97,5 @@
         <item name="android:textColorSecondary">@color/secondaryTextColor</item>
         <item name="android:textColorHint">@color/secondaryTextColor</item>
     </style>
-    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp"/>
+    <style name="Theme.VremenskaPrognoza" parent="Base.Theme.VremenskaPrognoza"/>
 </resources>

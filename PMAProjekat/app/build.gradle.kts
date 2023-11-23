@@ -44,7 +44,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.4.3"
+        kotlinCompilerExtensionVersion = "1.5.2"
     }
     buildFeatures{
         viewBinding = true
@@ -70,6 +70,7 @@ dependencies {
 
     // Hilt
     implementation("com.google.dagger:hilt-android:$hiltVersion")
+    implementation ("androidx.hilt:hilt-navigation-compose:1.1.0")
     ksp("com.google.dagger:hilt-compiler:$hiltVersion")
 
     // Fragment

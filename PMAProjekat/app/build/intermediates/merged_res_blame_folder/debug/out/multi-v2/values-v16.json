@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vremenskaprognoza.app-mergeDebugResources-69:/values-v16/values-v16.xml",
+            "outputFile": "com.example.vremenskaprognoza.app-mergeDebugResources-68:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\1b8211a1ad8b9b4e496aa0d91cce2565\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\11d50995117ae3d6e8aab30b9871f8ba\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\6ea392eff30aa120a00420ac016d5238\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sasser\\.gradle\\caches\\transforms-3\\e060ddb424a06ecfb8e75da3d70f4c48\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

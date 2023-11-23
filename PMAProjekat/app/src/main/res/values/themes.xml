@@ -1,5 +1,5 @@
 <resources>
-    <style name="Base.V21.Theme.WeatherApp" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Base.V21.Theme.VremenskaPrognoza" parent="Theme.AppCompat.Light.NoActionBar">
         <!--    Navigation Bar Color. -->
         <item name="android:navigationBarColor">@color/primaryBackground</item>
         <!--    Status Bar Color. -->
@@ -24,9 +24,9 @@
         <item name="colorBackgroundFloating">@color/primaryBackground</item>
     </style>
 
-    <style name="Base.Theme.WeatherApp" parent="Base.V21.Theme.WeatherApp" />
+    <style name="Base.Theme.VremenskaPrognoza" parent="Base.V21.Theme.VremenskaPrognoza" />
 
-    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp" />
+    <style name="Theme.VremenskaPrognoza" parent="Base.Theme.VremenskaPrognoza" />
 
     <style name="SearchViewStyle" parent="TextAppearance.Material3.SearchView">
         <item name="android:textColorPrimary">@color/primaryTextColor</item>
