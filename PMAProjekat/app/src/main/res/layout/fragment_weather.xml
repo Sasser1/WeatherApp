@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/primaryBackground"
+    android:background="@drawable/gradient_background"
     tools:context=".weather.presenter.fragment.WeatherFragment">
 
     <TextView
@@ -215,5 +215,11 @@
 
     </androidx.core.widget.NestedScrollView>
 
+    <View
+        android:id="@+id/blurOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000"
+        android:visibility="gone" />
 
 </FrameLayout>

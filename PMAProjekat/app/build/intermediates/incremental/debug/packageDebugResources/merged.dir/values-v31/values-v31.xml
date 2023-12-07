@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Base.Theme.VremenskaPrognoza" parent="Base.V31.Theme.VremenskaPrognoza"/>
-    <style name="Base.V31.Theme.VremenskaPrognoza" parent="Base.V21.Theme.VremenskaPrognoza">
-        <item name="android:windowSplashScreenBackground">@color/ic_launcher_background</item>
-    </style>
-</resources>

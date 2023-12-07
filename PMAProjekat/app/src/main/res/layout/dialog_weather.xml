@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121"
+    tools:context=".weather.presenter.fragment.WeatherFragment">
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="gone"
+        android:text="@string/searching"
+        android:textSize="14sp"
+        android:textColor="@color/secondaryTextColor"/>
+
+    <LinearLayout
+        android:id="@+id/llWeather"
+        android:layout_width="255dp"
+        android:layout_height="311dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/clickedDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="16sp"
+            tools:text="2023-01-01 01:01" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="192dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/clickedImWeather"
+                android:layout_width="164dp"
+                android:layout_height="164dp"
+                android:layout_gravity="top|center"
+                android:contentDescription="@string/weather"
+                tools:ignore="ImageContrastCheck"
+                tools:src="@drawable/im_clear_sun" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center">
+
+                <TextView
+                    android:id="@+id/clickedTemp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="64sp"
+                    tools:text="10" />
+
+                <TextView
+                    android:id="@+id/clickedTempUnit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="top"
+                    android:textSize="48sp"
+                    tools:text="°C" />
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/clickedWeather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingVertical="4dp"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="16sp"
+            tools:text="Overcast" />
+
+        <LinearLayout
+            android:id="@+id/llWeatherInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingVertical="16dp">
+
+            <TextView
+                android:id="@+id/clickedHumidity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/humidity"
+                android:drawablePadding="4dp"
+                android:textAlignment="textStart"
+                android:textSize="16sp"
+                app:drawableLeftCompat="@drawable/ic_humidity"
+                tools:text="80%" />
+
+            <TextView
+                android:id="@+id/clickedWindSpeed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="12dp"
+                android:contentDescription="@string/wind_speed"
+                android:drawablePadding="4dp"
+                android:textSize="16sp"
+                app:drawableLeftCompat="@drawable/ic_wind"
+                tools:text="3.0m/s" />
+
+            <TextView
+                android:id="@+id/clickedPrecipitation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/precipitation"
+                android:drawablePadding="4dp"
+                android:textSize="16sp"
+                app:drawableLeftCompat="@drawable/ic_pressure"
+                tools:text="0.0inch" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -7,20 +7,17 @@
 
     <fragment
         android:id="@+id/weatherFragment"
-        android:name="com.example.weatherapp.feature_weather.presenter.fragment.WeatherFragment"
+        android:name="com.example.vremenskaprognoza.weather.presenter.fragment.WeatherFragment"
         android:label="Weather"
         tools:layout="@layout/fragment_weather">
         <action
             android:id="@+id/navigateToCitySearchFragment"
             app:destination="@id/citySearchFragment"/>
-        <action
-            android:id="@+id/navigateToSettingsFragment"
-            app:destination="@id/settingsFragment" />
     </fragment>
 
     <fragment
         android:id="@+id/citySearchFragment"
-        android:name="com.example.weatherapp.feature_city_search.present.fragment.CityFragment"
+        android:name="com.example.vremenskaprognoza.searchCities.presenter.fragment.CityFragment"
         android:label="City Search"
         tools:layout="@layout/fragment_city_search" >
         <action
@@ -30,14 +27,4 @@
             app:popUpToInclusive="true"/>
     </fragment>
 
-    <fragment
-        android:id="@+id/settingsFragment"
-        android:name="com.example.weatherapp.feature_settings.presenter.fragment.SettingsFragment"
-        android:label="Settings">
-        <action
-            android:id="@+id/navigateToWeatherFragment"
-            app:destination="@id/weatherFragment"
-            app:popUpTo="@id/weatherFragment"
-            app:popUpToInclusive="true"/>
-    </fragment>
 </navigation>

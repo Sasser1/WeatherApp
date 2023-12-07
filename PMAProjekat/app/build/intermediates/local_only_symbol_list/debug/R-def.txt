@@ -13,6 +13,8 @@ color primaryBackground
 color primaryTextColor
 color secondaryBackground
 color secondaryTextColor
+drawable dialog_background
+drawable gradient_background
 drawable ic_add
 drawable ic_arrow_left
 drawable ic_cloud
@@ -38,7 +40,16 @@ drawable im_rainy
 drawable im_rainy_thunder
 drawable im_snowy
 drawable im_thunder
+id blurOverlay
 id citySearchFragment
+id clickedDate
+id clickedHumidity
+id clickedImWeather
+id clickedPrecipitation
+id clickedTemp
+id clickedTempUnit
+id clickedWeather
+id clickedWindSpeed
 id ibAdd
 id ibBack
 id ibSettings
@@ -48,13 +59,11 @@ id llWeather
 id llWeatherInfo
 id nav_host_fragment
 id navigateToCitySearchFragment
-id navigateToSettingsFragment
 id navigateToWeatherFragment
 id rvCities
 id rvDailyWeather
 id rvHourlyWeather
 id searchView
-id settingsFragment
 id tvCityInfo
 id tvCityName
 id tvDate
@@ -72,6 +81,7 @@ layout activity_main
 layout card_city
 layout card_daily_weather
 layout card_hourly_weather
+layout dialog_weather
 layout fragment_city_search
 layout fragment_weather
 mipmap ic_launcher

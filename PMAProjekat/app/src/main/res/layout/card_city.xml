@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/secondaryTextColor"
             android:textSize="14sp"
-            tools:text="Admin, Country" />
+            tools:text="Region, Country" />
 
     </LinearLayout>
 
