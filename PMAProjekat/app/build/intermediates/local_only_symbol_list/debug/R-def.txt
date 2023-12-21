@@ -21,6 +21,7 @@ drawable ic_cloud
 drawable ic_favorite_bordered
 drawable ic_favorite_filled
 drawable ic_humidity
+drawable ic_launcher
 drawable ic_launcher_foreground
 drawable ic_pressure
 drawable ic_search
@@ -40,6 +41,7 @@ drawable im_rainy
 drawable im_rainy_thunder
 drawable im_snowy
 drawable im_thunder
+drawable splash
 id blurOverlay
 id citySearchFragment
 id clickedDate
@@ -78,6 +80,7 @@ id tvWindSpeed
 id weatherFragment
 id weather_app_navigation
 layout activity_main
+layout activity_splash
 layout card_city
 layout card_daily_weather
 layout card_hourly_weather

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.databinding:viewbinding:8.1.3] C:\Users\Sasser\.gradle\caches\transforms-3\6d88298a10e09962fb8d676562c36c85\transformed\viewbinding-8.1.3\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Sasser\.gradle\caches\transforms-3\7cb3681ce0350c15bc82e679ea5885d4\transformed\room-runtime-2.6.0\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.room:room-ktx:2.6.0] C:\Users\Sasser\.gradle\caches\transforms-3\e7449b570668b8435f2f9549312bd8c0\transformed\room-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
@@ -107,8 +107,8 @@ ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:8:5-29:19
-INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:8:5-29:19
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:8:5-36:19
+INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:8:5-36:19
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Sasser\.gradle\caches\transforms-3\7cb3681ce0350c15bc82e679ea5885d4\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Sasser\.gradle\caches\transforms-3\7cb3681ce0350c15bc82e679ea5885d4\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sasser\.gradle\caches\transforms-3\f034b4384cb08d8f7af94aa2483affb7\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
@@ -153,24 +153,32 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sasser\.gradle\cac
 		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:11:9-65
 	android:name
 		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:9:9-43
-activity#com.example.vremenskaprognoza.MainActivity
-ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:19:9-28:20
+activity#com.example.vremenskaprognoza.SplashActivity
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:exported
-		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:21:13-36
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:22:13-36
 	android:theme
-		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:22:13-59
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:23:13-59
 	android:name
-		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:21:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.vremenskaprognoza.MainActivity
+ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml:31:13-41
 uses-sdk
 INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Sasser\Desktop\WeatherApp\PMAProjekat\app\src\main\AndroidManifest.xml

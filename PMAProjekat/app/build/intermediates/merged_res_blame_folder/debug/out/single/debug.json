@@ -24,6 +24,10 @@
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\layout\\card_hourly_weather.xml"
     },
     {
+        "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\drawable\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -84,10 +88,6 @@
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\drawable\\ic_favorite_bordered.xml"
     },
     {
-        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_fragment_weather.xml.flat",
-        "source": "com.example.vremenskaprognoza.app-main-72:/layout/fragment_weather.xml"
-    },
-    {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
@@ -132,6 +132,10 @@
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\xml\\root_preferences.xml"
     },
     {
+        "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\layout\\activity_splash.xml"
+    },
+    {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\drawable_icon_background.xml.flat",
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\drawable\\icon_background.xml"
     },
@@ -142,6 +146,10 @@
     {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.vremenskaprognoza.app-merged_res-70:/layout_activity_splash.xml.flat",
+        "source": "com.example.vremenskaprognoza.app-main-72:/layout/activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -198,6 +206,10 @@
     {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\drawable_dialog_background.xml.flat",
         "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\drawable_splash.jpg.flat",
+        "source": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-main-72:\\drawable\\splash.jpg"
     },
     {
         "merged": "C:\\Users\\Sasser\\.gradle\\daemon\\8.0\\com.example.vremenskaprognoza.app-merged_res-70:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
